@@ -1,0 +1,23 @@
+body {
+    color: #545454;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eee;
+}
+#ilkParagraf {
+    color: red;
+}
+.koyu {
+    color: #000;
+}
+.acik {
+    color: #c1c1c1;
+}
+.kutu {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    line-height: 150½;
+}
+.kutu ul li span {
+    font-weight: bold;
+}

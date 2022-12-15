@@ -1,0 +1,41 @@
+<html>
+<head>
+<style>
+
+*
+{
+    color: blue;
+}
+
+#idYesil 
+{
+    color: green;
+}
+
+.classKirmizi 
+{
+    color: red;
+}
+
+
+div {
+    background-color: green;
+}
+div.birinci {
+    opacity: 0.1;
+}
+div.ikinci {
+    opacity: 0.3;
+}
+div.ucuncu {
+    opacity: 0.6;
+}
+
+body
+{
+    background-image: url("download.jpg");
+}
+
+</style>
+</head>
+

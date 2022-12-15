@@ -1,0 +1,35 @@
+/*comment css*/
+.container{
+    /*display: inline-block;*/
+    display: inline-grid; /*Blok elemanları satr içi (inline) yapar.*/
+}
+.container .box {
+    border: 1px solid #533483 ;
+}
+.one {
+        background-color: #FF99D7;
+}
+.two{
+        background-color: #D58BDD;
+}
+.three{
+        background-color: #8BBCCC;
+}
+.four{
+        background-color: #00FFD1;
+}
+.five{
+        background-color: #F96666;
+}
+.six{
+        background-color: #FF9494;
+}
+.seven{
+        background-color: #F57328;
+}
+.eight{
+        background-color: #B1B2FF;
+}
+.nine{
+        background-color: #5F6F94;
+}
